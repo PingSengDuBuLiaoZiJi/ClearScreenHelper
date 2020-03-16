@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CSLibrary</string>
+    <declare-styleable name="slidelayout">
+        <attr format="boolean" name="menu_gesture"/>
+    </declare-styleable>
+</resources>
