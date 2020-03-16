@@ -1,2 +1,0 @@
-include ':cslibrary', ':sample'
-rootProject.name='ClearScreenHelper'
